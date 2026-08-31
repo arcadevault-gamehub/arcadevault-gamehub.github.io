@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "airport-master-plane-tycoon",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/300.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "block-puzzle-slide-block-jam",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/301.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dop-draw-one-part",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/302.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "color-screw-rescue-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/303.webp",
+    "genre": "Care, Match-3"
+  },
+  {
+    "id": "woodland-slide",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/304.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cannon-merge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/305.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "style-icons-2024-rewind-edition",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/306.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "aha-world-dream-town",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/307.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "witch-fairy-bff",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/308.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "angry-chibi-run",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/309.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hot-cold-winter-style",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/310.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "park-me-draw-path",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/311.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grow-a-garden-online-offline",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/312.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mahjong-connect-cookware",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/313.webp",
+    "genre": "Cooking, Mahjong & Connect"
+  },
+  {
+    "id": "halloween-merge-mania",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/314.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fishing-catch-the-secret-brainrot",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/315.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "uno-online",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/316.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "rolling-balls-sea-race",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/317.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "geometry-rush-4d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/318.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "counter-craft-sniper",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/319.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "fruit-cafe-match-3",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/320.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "goo-goo-gaga-clicker",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/321.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mahjong-slide-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/322.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "stickman-vs-zombies-worldcraft",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/323.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "russian-fishing-at-sea",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/324.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "parkour-block-obby",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/325.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-puzzle-tropical-story",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/326.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "relaxing-cubes-and-campfire",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/327.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "theme-word-search",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/328.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/329.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cryptograph",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/330.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sand-blast",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/331.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "farm-block-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/332.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "palm-island-solitaire",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/333.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "from-nerd-to-popular-ballerina-cappuccina",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/334.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "dance-on-hotsteps-mobile",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/335.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "death-ball",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/336.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "soda-block-jam",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/337.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "asmr-beauty-clinic",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/338.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "city-builder",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/339.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "italian-brainrot-bike-rush",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/340.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "solve-the-cube-wooden-blocks-2d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/341.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-shooter-spinner-pop",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/342.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "donnes-spinning-world",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/343.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "farm-of-words",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/344.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "celebrity-thanksgiving-prep",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/345.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "my-dinosaur-land",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/346.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "machine-city-balls",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/347.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "nesting-dolls",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/348.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ball-tower-of-hell",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/349.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wild-west-match-2-the-gold-rush",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/350.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "marble-blast",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/351.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "lucky-vegas-blackjack",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/352.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "the-big-hit-run",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/353.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "cargo-path-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/354.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "high-speed-crazy-bike",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/355.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "island-battle-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/356.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "maze-escape-challenge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/357.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "strawberry-shortcake",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/358.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "order-of-operation-challenge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/359.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "animation-coloring-alphabet-lore",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/360.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "fashion-week-2025",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/361.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mysterious-familiars-enchanted-bestiary",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/362.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fill-one-line",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/363.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "clinic-cleanup-crew",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/364.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "crypto-gals-tiktok-fashion",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/365.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mineblock-obby",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/366.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "escape-from-the-portal",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/367.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bomb-evolution",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/368.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/369.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "boss-market",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/370.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "rescue-rift",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/371.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "jungle-match-adventures",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/372.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sort-works-nuts-order",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/373.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "obby-1-pet-every-seconds",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/374.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-arrow-2",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/375.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "stick-hero-fight",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/376.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "carvivor-ops",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/377.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "money-chaser-city-parkour-game",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/378.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "world-wars-tanks",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/379.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "jewelry-idle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/380.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-master-super-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/381.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ocean-rescue",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/382.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "lol-surprise-game-zone",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/383.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "sort-and-style-back-to-school",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/384.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "my-city-hospital",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/385.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "team-loyalty",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/386.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "parkour-block-6",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/387.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "two-supra-drifters",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/388.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "goober-shot",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/389.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "remove-the-evidence",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/390.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jello-bubbles",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/391.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "cube-king",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/392.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fruit-jam",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/393.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ninja-climb",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/394.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "merge-flow",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/395.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "build-an-aquapark",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/396.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "plants-vs-zombies-war",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/397.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "mahjong-triple-3d-tile-match",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/398.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "67-clicker-tap-tap",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/399.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "crazysteveio",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/400.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sudoku-master",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/401.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "farm-vs-zombies",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/402.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "single-line-drawing-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/403.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-lost-city-match-3",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/404.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "monster-school-challenge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/405.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dragon-island-idle-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/406.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexamatch",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/407.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pirates-match-the-lost-treasure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/408.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bus-jam",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/409.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "snow-rush-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/410.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bbq-stack-run",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/411.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "code-maze",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/412.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "formula-racers",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/413.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "parking-fury-3d-night-city",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/414.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "drive-race-crash",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/415.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cat-from-hell-cat-simulator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/416.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "block-mine-fuse-tnt",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/417.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "peckshot",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/418.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "word-search-universe",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/419.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "jab-jab-boxing",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/420.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "cap",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/421.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "burger-day",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/422.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "candy-jewels",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/423.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cleaning-simulator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/424.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "stick-rope-hero",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/425.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "geometry-platformer",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/426.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fire-snake",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/427.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hyper-nurse-hospital-games",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/428.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dazzling-divas-makeup",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/429.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "steampunk-merge-to-battle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/430.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "oil-tanker-transport-truck",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/431.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "archers-ragdoll-physics",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/432.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "solitaire-daily",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/433.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "geometrix",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/434.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "liquids-sort-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/435.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cuddle-monster-fusion",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/436.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jewel-monsters",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/437.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lost-in-the-forest",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/438.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "astro-kitty-rush",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/439.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "offroad-island",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/440.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "galactic-golf-solitaire",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/441.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "happy-monsters-2",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/442.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-arrow",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/443.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "spider-rope-hero-city-fight",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/444.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "pizza-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/445.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "solitaires-crime-stories",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/446.webp",
+    "genre": "Adventure, Cards"
+  },
+  {
+    "id": "super-pop-blast",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/447.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cake-sort",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/448.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "christmas-blocks-sort",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/449.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brainrot-mob-clash-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/450.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tangle-master-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/451.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "duck-luck",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/452.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "x-to-y-almost-impossible",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/453.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "ibiza-foam-party",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/454.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mahjong-riddles-egypt",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/455.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "save-seafood",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/456.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-fire-station-world",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/457.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "house-of-celestina",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/458.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kuzbass-horror",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/459.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "carjamcolor",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/460.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pinball-basketball",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/461.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "chill-clicker",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/462.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stunt-multiplayer-arena",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/463.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "stack-tower-pro",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/464.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stick-color-war",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/465.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mystical-blade-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/466.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "zombie-drift-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/467.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "moto-attack-bike-racing",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/468.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bloons-survivalio",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/469.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "solitaire-summer-klondike",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/470.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "crash-car-parkour-simulator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/471.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gta-grand-vegas-crime",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/472.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "2-player-games-design-salon",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/473.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "oreplication",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/474.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "save-the-daddy",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/475.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "crunch-locked",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/476.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-with-friends-draw-and-jump",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/477.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "home-island",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/478.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "plug-man-race",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/479.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "wheel-of-bingo",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/480.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "swat-force-vs-terrorists",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/481.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "make-america-great-again",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/482.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "wild-race-master-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/483.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "on-fire-basketball-shots",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/484.webp",
+    "genre": "Puzzle, Basketball"
+  },
+  {
+    "id": "back-to-school-uniforms-edition",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/485.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "superwings-subway",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/486.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "snake-2048",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/487.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "sausage-man-shooting-adventure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/488.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "monster-dash",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/489.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mafia-sniper-crime-shooting",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/490.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "block-merge-city",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/491.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "christmas-sorting",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/492.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "autumn-glam-gala",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/493.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "skating-park",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/494.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "hexafill",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/495.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cat-vs-granny-cat-simulator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/496.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merge-hotel-empire",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/497.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cooking-restaurant-kitchen",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/498.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "hidden-objects-vacation-in-brazil",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/499.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "plants-warfare",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/500.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "bears-vs-art",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/501.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "smart-dots-reloaded",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/502.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-2048-cake",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/503.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "connect-clues-the-missing-professor",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/504.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "single-stroke-energy-line-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/505.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "atomic-merge-2048",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/506.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mahjong-connect-majong-class",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/507.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "super-tank-hero",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/508.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ball-paint-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/509.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "freecell-solitaire",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/510.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "hit-ball",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/511.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zombie-road-shooter-with-destruction",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/512.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "crystal-connect",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/513.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "tanks-merge-tank-war-blitz",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/514.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "the-best-warrior",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/515.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "hobo-speedster",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/516.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "pongoal",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/517.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "ibiza-foam-party",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/518.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-tnt-blast",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/519.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "penguin-adventure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/520.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "train-drift",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/521.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solitaire-lamour",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/522.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "gloomy-princess-favorite-toy",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/523.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "fruit-king-merge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/524.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "i-am-security",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/525.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crocodilo-tralalero-run",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/526.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "little-dentist-dash",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/527.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "wire-connect",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/528.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "deadlockio",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/529.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "gem-deep-digger",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/530.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gomu-goman",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/531.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tap-away-block-puzzle-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/532.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "2048-puzzle-connect-the-balls",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/533.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "urus-city-driver",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/534.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "adversator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/535.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "minicraft-winterblock",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/536.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "hidden-object-farm-adventure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/537.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brick-breaker-chipi-chipi-chapa-chapa-cat",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/538.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "delivery-now",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/539.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brotherfollow-me-merge-men",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/540.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "food-merge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/541.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "college-girl-coloring-dress-up",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/542.webp",
+    "genre": "Art, Casual, Dress-up"
+  },
+  {
+    "id": "nuts-bolts-sort-color-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/543.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "kaboom-miner",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/544.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "merge-car-defense",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/545.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "jewel-garden-story",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/546.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "squid-escape-game",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/547.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "get-to-the-chopper",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/548.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "dye-it-right-color-picker",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/549.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2248-blast",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/550.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gang-war-strike-shooter",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/551.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "squid-sprunki-slither-game-2",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/552.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "fruit-catcher",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/553.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hook-master-mafia-city",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/554.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spotdiffers",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/555.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "escape-steal-brainrot-sahur-hills",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/556.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "crazy-hill-climbing",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/557.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "woolloop-color-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/558.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "build-a-queen-2025",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/559.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "granny-halloween-house",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/560.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sprunki-3d-shooter",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/561.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "zombie-chase",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/562.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "zombie-arena-2-fury-road",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/563.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "hexa-block-honey-cells",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/564.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "steal-brainrot-duel",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/565.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "diner-in-the-storm",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/566.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "perfect-tidy",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/567.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "the-drag-racing-challenge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/568.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "elemental-gloves-magic-power",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/569.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "spaceio",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/570.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "spider-solitaire-2-suits",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/571.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fish-story-3",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/572.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ocean-pop",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/573.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/574.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "monster-high-spooky-fashion",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/575.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "typing-adventure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/576.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "besties-chinese-new-year-celebration",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/577.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "children-happy-farm-dudu",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/578.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "color-sort-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/579.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rope-stitch-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/580.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "jelly-belly-make-the-elephant",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/581.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "asmr-beauty-superstar",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/582.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "zero-to-millionaire",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/583.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "stalker-strike",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/584.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "doge-match",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/585.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "memevoio",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/586.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "hyper-survive",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/587.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "miner-cat-4",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/588.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sky-assault",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/589.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "obby-pump-up-your-muscles-1-per-second",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/590.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "war-lands",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/591.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-blaster-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/592.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pin-board-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/593.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "plant-merge-zombie-war",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/594.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "sea-monsters-mahjong",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/595.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "archer-go",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/596.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-it-jam",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/597.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "asmr-nail-treatment",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/598.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "mine-sweeper",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/599.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "math-master",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/600.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "monster-slayers",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/601.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "diamond-mosaic",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/602.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "real-street-fighter-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/603.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "one-line-drawing",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/604.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "number-rush",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/605.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "domino-world",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/606.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "mojicon-garden-connect",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/607.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "airways-maze",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/608.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tictoc-urban-outfits",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/609.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "stickman-football",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/610.webp",
+    "genre": "Football, Agility"
+  },
+  {
+    "id": "draw-weapon-fight-party",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/611.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "one-hero",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/612.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "countryside-truck-drive",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/613.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "cat-evolution",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/614.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-army-the-resistance",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/615.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "frog-byte",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/616.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grill-it-all",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/617.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "destruction-of-stickman-zombie",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/618.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "word-voyager",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/619.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "incredible-kids-dentist",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/620.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "hardventure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/621.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "farm-match-seasons-3",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/622.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "card-clash-battle-arena",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/623.webp",
+    "genre": "Battle, Cards"
+  },
+  {
+    "id": "magic-kingdom-hex-match",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/624.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "raccoon-retail",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/625.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-escape",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/626.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "vortex-ball",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/627.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "shoot-2048-hexa",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/628.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "queens-royal-sudoku-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/629.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "pushover-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/630.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/631.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "reflect-beam-laser-logic",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/632.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "battletabs",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/633.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "asmr-washing-fixing",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/634.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-pro-4",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/635.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "panda-shop-simulator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/636.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "hidden-objects-island-secrets",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/637.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "building-mods-for-minecraft",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/638.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "block-digger",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/639.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "wordler",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/640.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "soccer-arena-x",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/641.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "wednesday-addams-beauty-salon",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/642.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "ole-bunny",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/643.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "squid-game-playground-shooter",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/644.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "grand-mahjong-connect",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/645.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "dress-up-run",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/646.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "cityquest",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/647.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shape-shift",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/648.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jailbreak-roblox-jumper",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/649.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-miners-wars",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/650.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "about-a-frog",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/651.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "flappy-rush",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/652.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dungeon-master-cult-craft",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/653.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexa-stack",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/654.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bff-easter-photobooth-party",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/655.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "color-block-sort",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/656.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "capybara-go",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/657.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dragon-escape",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/658.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "clownfish-pin-out",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/659.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "candy-rain-5",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/660.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "merry-christmas-stickman",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/661.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "word-jam-association-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/662.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "321-choose-the-different",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/663.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "skibidi-toilet-vs-cameraman-sniper-game",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/664.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "zombie-hunters-online",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/665.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-tour",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/666.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mahjong-garden",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/667.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "home-block-story",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/668.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "divinex",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/669.webp",
+    "genre": "Art, Mahjong & Connect"
+  },
+  {
+    "id": "blue-girls-makeup",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/670.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "trivia-nation",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/671.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "hair-stack-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/672.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "robberies-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/673.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "skydom",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/674.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bbq-sort-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/675.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-pixel-gun-apocalypse-3",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/676.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-final-riddle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/677.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "athena-match-2",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/678.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "burger-empire",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/679.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "nuwpys-adventure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/680.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexa-puzzle-master",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/681.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "grunge-chic-alt-fashion",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/682.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "math-stars",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/683.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "winter-gifts",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/684.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "quackventure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/685.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "xmas-hexa-sort",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/686.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "classic-mine-sweeper",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/687.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kitty-scramble",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/688.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-at-home-scandinavian-edition",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/689.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "traffic-escape-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/690.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "we-will-not-survive",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/691.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "summon-tribe",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/692.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "formula-racing-games-car-game",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/693.webp",
+    "genre": "Sports, .IO"
+  },
+  {
+    "id": "crazy-motorcycle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/694.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bubiloons",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/695.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "celebrities-get-ready-for-christmas",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/696.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "diy-makeup-salon-spa-makeover-studio",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/697.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "italian-brainrot-neuro-beasts",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/698.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "two-stunt-supercars",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/699.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "hair-salon-beauty-salon",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/700.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sea-lords",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/701.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "summer-maze",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/702.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "offroad-jeep-game-simulator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/703.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "type-sprint",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/704.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "sushi-puzzle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/705.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sand-sort-color-puzzle-game",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/706.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "build-a-go-kart",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/707.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "spin-spin",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/708.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "archer-legend",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/709.webp",
+    "genre": "Shooter, Sports"
+  },
+  {
+    "id": "bloxorz-block-puzzle-3d",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/710.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-hidden-cats",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/711.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-basement-isnt-that-haunted",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/712.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "teardown-destruction-sandbox",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/713.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "panda-lu-treehouse",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/714.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "aim-ninja",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/715.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "juicy-match-2",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/716.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tank-battle-war-commander",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/717.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aventador-vice-crime-city",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/718.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "murder-mystery",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/719.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "strategy-of-war-tanks-and-helicopters",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/720.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "sort-resort",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/721.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gladiators-merge-and-fight",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/722.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "color-maze",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/723.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "motorcycle-simulator-offline",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/724.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "zombie-horde-build-survive",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/725.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sprunki-mini-games",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/726.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "mine-jump",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/727.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "glamour-beachlife",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/728.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emoji-frenzy",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/729.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "portals",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/730.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "parkour-obby",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/731.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "italian-brainrot-bomb-2player",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/732.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/733.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "steal-brainrot-eggs",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/734.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "jewel-coloring",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/735.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-bump-dancer",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/736.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zombie-frontier-shooter",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/737.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cannon-blast-the-last-stand",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/738.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "big-block-blast",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/739.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fast-ball-jump",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/740.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "brick-blaze",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/741.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jigsort-puzzles",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/742.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flight-sim-air-traffic-control",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/743.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "ultimate-transport-driving-sim",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/744.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "hexanaut-io",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/745.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "meow-slide",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/746.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "deep-in-the-lab-chapter-1",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/747.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "popcorn-stack",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/748.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gun-match-screw",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/749.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-sort-winter-edition",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/750.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vibrant-hearts-glamour-vs-punk",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/751.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "easy-obby-jump-and-run-challenge-online",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/752.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "build-a-rich-queen",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/753.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "spot-differences-bird-adventure",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/754.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "madness-driver-vertigo-city",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/755.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bubble-shooter-blast",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/756.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "shipbuilding-tycoon",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/757.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "piece-of-cake-merge-and-bake",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/758.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "marble-sort",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/759.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snakes",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/760.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "wood-color-block",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/761.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "blind-boat-shooting-master",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/762.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puppy-merge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/763.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mr-bullet-stealth-ninja-killstreak",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/764.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "helicopter-battle-steve-2-player",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/765.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "tower-wars-arena",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/766.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "antistress-simulator-of-sequins-diy",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/767.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "idle-barber-shop",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/768.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "crazy-fruit-merge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/769.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "arrow-escape",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/770.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "limousine-car-game-simulator",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/771.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "tricky-shots",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/772.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "master-blender",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/773.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "winter-tetrix-trails",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/774.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "tic-tac-toe-match-three",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/775.webp",
+    "genre": "Boardgames, Match-3"
+  },
+  {
+    "id": "mononinja",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/776.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mk48-io",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/777.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-temple-jewels",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/778.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "foot-hospital",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/779.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "elixir-drop",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/780.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "match-3-dream-room",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/781.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bus-collect",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/782.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "skibronx-runner",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/783.webp",
+    "genre": "Adventure, Sports"
+  },
+  {
+    "id": "happy-jump",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/784.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "robot-runner-fight",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/785.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "metal-bay-top-blade-power",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/786.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "back-2-school-makeover",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/787.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "celebrity-spring-fashion-trends",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/788.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "arrow-out-and-linker",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/789.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "lunar-phase-battle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/790.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "run-now",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/791.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brawl-stars-battle",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/792.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "zombie-survival-shooter",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/793.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "marble-bubble-legend",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/794.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bubble-shooter-remastered",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/795.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "jump-to-the-mountain-for-the-brainrots",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/796.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "puzzle-play",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/797.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "celebrity-aesthetic-challenge",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/798.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bubble-trouble-2-rebubbled",
+    "thumbnail": "https://arcadevault-gamehub.github.io/images/799.webp",
+    "genre": "Puzzle, Casual"
+  }
+]
